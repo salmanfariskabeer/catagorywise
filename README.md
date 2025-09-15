@@ -1,0 +1,2 @@
+# catagorywise
+sale in catogory
